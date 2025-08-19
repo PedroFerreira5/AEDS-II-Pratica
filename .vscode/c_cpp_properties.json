@@ -6,7 +6,6 @@
         "C:/cygwin64/usr/include",
         "C:/cygwin64/lib/gcc/x86_64-pc-cygwin/*"
       ],
-      "defines": [],
       "compilerPath": "C:/cygwin64/bin/g++.exe",
       "cStandard": "c11",
       "cppStandard": "c++17",
