@@ -40,8 +40,7 @@ void inserirPosicao(int valor, int posicao)
     tmp1->next = tmp->next;
     tmp->next = tmp1;
 }
-void removerPosicao(int posicao)
-{
+void removerPosicao(int posicao){
     if (posicao == 1 && p != NULL)
     {
         tmp1 = p;    // -> nó a ser removido
@@ -75,7 +74,6 @@ void imprimir()
         tmp = tmp->next;
     }
 }
-
 int obterPosicao(int posicao)
 {
     int i;
