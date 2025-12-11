@@ -36,7 +36,6 @@ void quickSort(int vet[], int inicio, int fim) {
     }
 }
 
-// ...existing code...
 
 int main(void) {
     int v[] = {5, 3, 9, 1, 7, 2};
